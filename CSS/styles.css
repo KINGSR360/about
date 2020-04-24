@@ -1,0 +1,154 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  font-weight: 300;
+  color: #45b29a;
+}
+
+h2 {
+  font-family: 'Reem Kufi', sans-serif;
+  color: #1e836c;
+  font-size: 3.6rem;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Rancho', cursive;
+  color: #45b29a;
+  font-size: 2rem;
+  font-weight: 300;
+ }
+
+h4 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: #45b29a;
+}
+
+p {
+  color: #545454;
+  font-size: 1.5rem;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #dbdbdb;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto;
+}
+a  {
+  margin: 10px 30px 60px;
+  color: #45b29a;
+  font-family: 'Reem Kufi', sans-serif;
+  text-decoration: none;
+  font-size: 1.30rem;
+ }
+ a:hover{
+   color: #5f6769;
+ }
+.intro {
+  width: 40%;
+  margin: auto;
+  }
+  .freelance {
+    width: 55%;
+    margin: auto;
+    margin: 30px auto 50px;
+  }
+  .end {
+    font-size: 0.80rem;
+    color: #45b29a;
+  }
+.top-container {
+  background-color: #e0ebe8;
+  position: relative;
+  padding-top: 200px;
+}
+
+.middle-container {
+margin: 80px auto;
+}
+
+.bottom-container {
+  background-color: #bbded6;
+  padding: 50px 0 20px;
+}
+
+.house {
+  position: relative;
+  top: 4px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 140px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 350px;
+}
+
+.king {
+  width: 12%;
+  padding-top: 70px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.what {
+  width: 25%;
+  float: left;
+margin-right: 30px;
+}
+.fruit {
+  width: 25%;
+  float: right;
+margin-left: 30px;
+}
+.btn {
+	background-color:#1aad81;
+	-webkit-border-top-left-radius:5px;
+	-moz-border-radius-topleft:5px;
+	border-top-left-radius:5px;
+	-webkit-border-top-right-radius:5px;
+	-moz-border-radius-topright:5px;
+	border-top-right-radius:5px;
+	-webkit-border-bottom-right-radius:5px;
+	-moz-border-radius-bottomright:5px;
+	border-bottom-right-radius:5px;
+	-webkit-border-bottom-left-radius:5px;
+	-moz-border-radius-bottomleft:5px;
+	border-bottom-left-radius:5px;
+text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:16px;
+	font-weight:bold;
+	font-style:normal;
+height:49px;
+	line-height:49px;
+width:135px;
+	text-decoration:none;
+	text-align:center;
+}.btn:hover {
+	background-color:#17d1ac;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
